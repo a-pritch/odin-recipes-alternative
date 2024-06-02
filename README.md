@@ -1,0 +1,1 @@
+Alternative project instead of Odin's recipes project
